@@ -1,4 +1,6 @@
-# Trakt.tv (for Plex) - Configuration
+# This is a copy of https://github.com/trakt-for-plex/configuration with one minor change : the timeout has been increased
+
+# #Trakt.tv (for Plex) - Configuration
 
 [![](https://img.shields.io/badge/license-GPLv3-blue.svg?style=flat-square)][license]
 
